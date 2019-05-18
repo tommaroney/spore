@@ -18,8 +18,11 @@ Locally the application can be run with a MySQL server, but will need to be conn
 Create environment variables either in a .env file in the root folder: 
 
 `dev_USERNAME = `*yourUsername*
+
 `dev_PASSWORD = `*yourPassword*
+
 `dev_HOST = `*hostAddress*
+
 `dev_DATABASE = `*yourDatabase*`
 
 
