@@ -24,9 +24,12 @@ dev_HOST = *hostAddress*
 dev_DATABASE = *yourDatabase*
 ~~~~
 
+next
 
+~~~~
 npm install
 npm install --dev
+~~~~
 
 run the node server to create tables in the database
 end the server instance
