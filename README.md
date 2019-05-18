@@ -23,7 +23,7 @@ Create environment variables either in a .env file in the root folder:
 
 `dev_HOST = `*hostAddress*
 
-`dev_DATABASE = `*yourDatabase*`
+`dev_DATABASE = `*yourDatabase*
 
 
 npm install
