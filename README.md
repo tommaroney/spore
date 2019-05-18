@@ -13,7 +13,7 @@ Find those mushrooms by attribute at http://ec2-3-216-49-158.compute-1.amazonaws
 
 The application is running on an EC2 instance backed by and RDS database with an S3 bucket collecting and serving images.
 
-Locally the application can be run with a MySQL server, but will need to be connected an S3 bucket for a functioning Admin page.  This is as easy as creating an S3 Bucket in the AWS Console and creating an IAM user with permissions to administrate the bucket.  Save a copy of the Key ID and the Secret Access Key.  After this is completed be sure the aws-cli tool has been installed and run aws configure.  Provide the requested information.
+Locally the application can be run with a MySQL server, but will need to be connected an S3 bucket for a functioning Admin page.  This is as easy as creating an S3 Bucket in the AWS Console and creating an IAM user with permissions to administer the bucket.  Save a copy of the Key ID and the Secret Access Key.  After this is completed be sure the aws-cli tool has been installed and run aws configure.  Provide the requested information.
 
 Create environment variables either in a .env file in the root folder: 
 
